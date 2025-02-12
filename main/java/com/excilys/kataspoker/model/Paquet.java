@@ -1,4 +1,5 @@
 package main.java.com.excilys.kataspoker.model;
+/////////
 
 import java.util.ArrayList;
 import java.util.Collections;
